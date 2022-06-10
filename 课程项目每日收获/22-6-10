@@ -6,4 +6,5 @@ https://mp.weixin.qq.com/s?__biz=MzAxMTM3MDk2Ng==&mid=2451659222&idx=1&sn=65fdcc
 https://zhuanlan.zhihu.com/p/111284408
 https://blog.csdn.net/weixin_48445640/article/details/109505765
 
-2.
+2.时间复杂度估计：
+数据量*复杂度 < 10^8即可
