@@ -1,0 +1,9 @@
+1. cs61a 
+做hw04的前两道题，知道了Python的三种作用域。若是查找变量从小到达依次查找；
+若是修改需要local/nonlocal/global关键字
+参考资料：
+https://mp.weixin.qq.com/s?__biz=MzAxMTM3MDk2Ng==&mid=2451659222&idx=1&sn=65fdcccb09cef1d2b441a6810b1cdf32&chksm=8c97d16fbbe05879798d95303b8608aa6b1ef17b31c702c8bb39768d2b4335732731759fe08b&scene=21#wechat_redirect
+https://zhuanlan.zhihu.com/p/111284408
+https://blog.csdn.net/weixin_48445640/article/details/109505765
+
+2.
