@@ -1,0 +1,10 @@
+1. github下载clash for Windows
+https://github.com/Fndroid/clash_for_windows_pkg
+右侧releases选择自己的版本
+
+2. 解压运行./cfw
+3. 去https://v2rayse.com/找免费的节点订阅复制链接
+
+3. 在profiles中导入链接下载
+4. 首页打开 allow LAN，鼠标放上去查看IP
+5. 在ubuntu中配置手工代理ip与端口号
