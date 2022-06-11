@@ -3,3 +3,6 @@ c++最大堆 priority_queue
 参考资料
 https://blog.csdn.net/my_lovely_lemon_tree/article/details/78007316
 https://blog.csdn.net/qq_41253960/article/details/124570708
+
+2. Linux系统常用指令
+安装指令 sudo dpkg -i 安装包名字
