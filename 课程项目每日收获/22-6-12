@@ -1,7 +1,12 @@
 cs61a
-了解mutable data（可变数据）。即可变数据自身可以更改，更改后其地址不变。
+1.了解mutable data（可变数据）。即可变数据自身可以更改，更改后其地址不变。
   因此若a与b都是可变数据，修改a后b也跟着改变（a指向的地址未变，仍与b指向同一个地址）
 immutable data 自身无法改变。若a是不可变数据，那么更改a后其地址发生变化（因为a初始指向元素无法变化，所以a指向新元素的地址了）。
   因此若a与b都是可变数据，修改a后b不改变（a指向的地址改变，b还指向原来地址）
+  
+ 2.c++中主要是赋值，引用与指针会有特殊符号；因此没有特殊符号，两个类相等就是赋值操作
+ python中主要是引用，如果是可变变量的话，那么相等操作相当于c++引用。（New objects that have user-defined classes are only created 
+ when a class (such as Account) is instantiated with call expression syntax.）
+ 所以python is 判断两个变量是否是引用同一个内存地址。== 判断两个变量是否相等。
 参考资料：
 https://www.codingem.com/python-mutability-explained/
